@@ -1,0 +1,40 @@
+The "cars93" dataset is a classic dataset often used for exploring regression and classification algorithms in machine learning. It contains information about various car models from the 1993 model year. Here's the metadata typically associated with the "cars93" dataset:
+
+Manufacturer: The brand or company that produced the car.
+Model: The specific model of the car.
+Type: The type of car, such as compact, midsize, or large.
+Min_Price: The minimum price of the car in thousands of dollars.
+Price: The average price of the car in thousands of dollars.
+Max_Price: The maximum price of the car in thousands of dollars.
+MPG_city: The miles per gallon (MPG) of fuel efficiency in city driving conditions.
+MPG_highway: The miles per gallon (MPG) of fuel efficiency in highway driving conditions.
+AirBags: The type of airbags equipped in the car, such as driver only, passenger only, or both.
+DriveTrain: The type of drivetrain, such as front-wheel drive, rear-wheel drive, or all-wheel drive.
+Cylinders: The number of cylinders in the car's engine.
+EngineSize: The size of the car's engine in liters.
+Horsepower: The horsepower of the car's engine.
+RPM: The revolutions per minute (RPM) at which the engine operates most efficiently.
+Rev_per_mile: The number of revolutions per mile traveled.
+Man_trans_avail: Whether a manual transmission is available for the car.
+Fuel_tank_capacity: The capacity of the car's fuel tank in gallons.
+Passengers: The number of passengers the car can accommodate.
+Length: The length of the car in inches.
+Wheelbase: The distance between the centers of the front and rear wheels.
+Width: The width of the car in inches.
+Turn_circle: The turning circle diameter of the car in feet.
+Rear_seat_room: The rear seat room in inches.
+Luggage_room: The luggage room capacity in cubic feet.
+Weight: The weight of the car in pounds.
+Origin: The country of origin of the car, such as USA, Europe, or Asia.
+This metadata provides a comprehensive overview of the features included in the dataset, which can be useful for various analytical and predictive tasks related to car models and their attributes.
+
+
+The file contains basic cars details
+
+Goal:- You can do multiple things using this dataset such as
+
+Missing data treatment 
+Various Pandas operations (to learn; the basic concepts) 
+EDA 
+You can choose to run any machine learning algorithm, considering any features and any label.
+The basic purpose of this dataset is to get started in the field of data science and machine learning.
